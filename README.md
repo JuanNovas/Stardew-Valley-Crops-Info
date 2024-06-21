@@ -32,3 +32,6 @@ python main.py
 ```
 
 # Screenshots 🌵
+![Screenshot form the app](images/screenshots/screenshot1.jpg)
+![Screenshot form the app x2](images/screenshots/screenshot2.jpg)
+![Screenshot form the app x3](images/screenshots/screenshot3.jpg)
